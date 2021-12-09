@@ -1,0 +1,15 @@
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.csproj.AssemblyReference.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.AssemblyInfoInputs.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.AssemblyInfo.cs
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.csproj.CoreCompileInputs.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ISBN
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ISBN.deps.json
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ISBN.runtimeconfig.json
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ISBN.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ref/ISBN.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/bin/Debug/net6.0/ISBN.pdb
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ref/ISBN.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.pdb
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ISBN/ISBN/obj/Debug/net6.0/ISBN.genruntimeconfig.cache

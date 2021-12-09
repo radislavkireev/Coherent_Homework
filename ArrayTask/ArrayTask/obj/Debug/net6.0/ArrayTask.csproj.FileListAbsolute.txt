@@ -1,0 +1,15 @@
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.csproj.AssemblyReference.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.AssemblyInfoInputs.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.AssemblyInfo.cs
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.csproj.CoreCompileInputs.cache
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ArrayTask
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ArrayTask.deps.json
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ArrayTask.runtimeconfig.json
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ArrayTask.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ref/ArrayTask.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/bin/Debug/net6.0/ArrayTask.pdb
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ref/ArrayTask.dll
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.pdb
+/Users/kristijonasmedelis/Coherent Solutions school/Homework1/ArrayTask/ArrayTask/obj/Debug/net6.0/ArrayTask.genruntimeconfig.cache
